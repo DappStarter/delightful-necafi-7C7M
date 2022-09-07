@@ -1,0 +1,8 @@
+{
+    "name": "Web223IdMapping",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true
+    }
+}
